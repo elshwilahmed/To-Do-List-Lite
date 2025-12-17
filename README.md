@@ -1,6 +1,6 @@
 # To-Do List Lite CLI 📝
 
-A simple, efficient, and interactive Command Line Interface (CLI) application to manage daily tasks. Built using **C#** and **.NET**.
+A simple, efficient, and interactive Command Line Interface (CLI) application to manage daily tasks. Built using **C++**.
 
 This project was developed as a submission for the **Backend technical task**.
 
