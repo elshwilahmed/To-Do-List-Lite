@@ -1,8 +1,28 @@
-# To-Do List Lite CLI 📝
+# 🚀Backend Circle Tasks
+ 
+This repository contains my solutions for the technical assessment tasks, organized into separate folders.
+
+---
+
+## 📂 Repository Structure
+
+| Task | Description | Solution Link |
+| :--- | :--- | :--- |
+| **1. To-Do List Lite** | A C++ Console Application to manage daily tasks. 
+| **2. Problem Solving** | Python function to find the shortest string in a list. 
+| **3. SQL Challenge** | Query to retrieve students with grades between 90-100. 
+---
+
+## 🛠️ Tech Stack & Tools Used
+* **Languages:** C++, SQL
+* **Tools:** Visual Studio, Git & GitHub
+* **Version Control:** Commit history reflects development progress.
+
+---
+
+### 1️⃣ Task 1: To-Do List Lite App(C++)
 
 A simple, efficient, and interactive Command Line Interface (CLI) application to manage daily tasks. Built using **C++**.
-
-This project was developed as a submission for the **Backend technical task**.
 
 ## 🚀 Features
 
@@ -38,9 +58,22 @@ Operations:
 > Is completed(y/n)? y
 ```
 
+### 2️⃣ Task 2: Problem Solving
+* **Challenge:** Find the shortest string in a list.
+* **Input Example:** `["code", "backend", "ai", "circle"]`
+* **Output:** `"ai"`
+
+### 3️⃣ Task 3: SQL Query
+* **Challenge:** Retrieve students with grades between 90 and 100.
+* **Database:** Structured specifically for the students' grade table.
+
+---
 ## 👨‍💻 Developed By
 
 **[Ahmed Elshwil]**
 
 * 🐙 GitHub: [elshwilahmed](https://github.com/elshwilahmed)
 * 📧 Email: [elshwilahmed@gmail.com]
+
+---
+*Thank You*
