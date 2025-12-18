@@ -52,7 +52,7 @@ Operations:
 3.Mark Task complete
 
 > Choose Your Operation: 1
-> Enter task Name: Finish the Backend Task
+> Enter task Name: Backend Task
 > Do You Want Add Describtion?(y/n) n
 > Is completed(y/n)? y
 ```
